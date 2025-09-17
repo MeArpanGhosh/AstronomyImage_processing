@@ -2,7 +2,7 @@
 
 # 1.3m Devasthal Fast Optical Telescope Image Cleaning Pipeline
 
-An automated Python pipeline for cleaning and processing raw astronomical images from 1.3m Devasthal Fast Optical Telescope using IRAF/PyRAF. This tool performs bias subtraction, flat field correction, image alignment, and stacking to produce science-ready astronomical images.
+An semi-automated Python pipeline for cleaning and processing raw astronomical images from 1.3m Devasthal Fast Optical Telescope using IRAF/PyRAF. This tool performs bias subtraction, flat field correction, image alignment, and stacking to produce science-ready astronomical images.
 
 ## Features
 
